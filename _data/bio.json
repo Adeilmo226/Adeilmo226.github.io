@@ -7,35 +7,63 @@
     "phone": "763-807-0395",
     "website": "https://Adeilmo226.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2024.",
-    "location": { "address": "", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": {
+      "address": "",
+      "postalCode": "96826",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "Adeilmo226", "url": "https://Adeilmo226.github.io" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/adeil-mohammadzadah-43985a1b3/" }
+      {
+        "network": "github",
+        "username": "Adeilmo226",
+        "url": "https://Adeilmo226.github.io"
+      },
+      {
+        "network": "linkedin",
+        "username": "Adeil Mohammadzadah",
+        "url": "https://www.linkedin.com/in/adeil-mohammadzadah-43985a1b3/"
+      }
     ]
   },
   "interests": [
-    { "name": "Software Engineering" },
-    { "name": "Hiking" },
-    { "name": "Calesthetics" }
+    {
+      "name": "Software Engineering"
+    },
+    {
+      "name": "Hiking"
+    },
+    {
+      "name": "Calisthenics"
+    }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "TypeScript" ]
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "JavaScript",
+        "Python",
+        "TypeScript"
+      ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub" ]
+      "keywords": [
+        "MacOS",
+        "Git/GitHub"
+      ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2024)",
-      "studyType": "B.A." [
-      ]
+      "area": "Computer Science",
+      "studyType": "B.A.",
+      "endDate": "expected Fall, 2024"
     }
   ]
-
-
 }
