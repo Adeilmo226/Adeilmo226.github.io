@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: https://avatars.slack-edge.com/2023-11-08/6160060559893_a5abfd42405fd67ff7bf_512.png
 title: "Birthday Bot"
 date: 2024
 published: true
