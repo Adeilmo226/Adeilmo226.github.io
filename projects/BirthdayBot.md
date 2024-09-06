@@ -9,8 +9,8 @@ date: 2024
 published: true
 labels:
   - Python
-  - Automation via cron scheduler
-summary: "I developed a python script that emails my friends and family automatically on their birthdays from my email with an customized birthday message."
+  - Automation via 
+summary: "A python script that emails my friends and family automatically on their birthdays with an customized birthday message."
 ---
 
 <div class="text-center p-4">
