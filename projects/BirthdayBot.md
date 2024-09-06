@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-image: ![BirthdayBot](https://github.com/user-attachments/assets/ad81a171-92fe-4a95-9184-26ef40f5ada0)
+image: "https://github.com/user-attachments/assets/85f84bc5-b946-4ac0-845f-3a6c9e185a44"
+
 
 title: "Birthday Bot"
 date: 2024
@@ -13,7 +14,7 @@ summary: "I developed a python script that emails my friends and family automati
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="" class="img-thumbnail" >
+  <img width="200px" src="https://avatars.slack-edge.com/2023-11-08/6160060559893_a5abfd42405fd67ff7bf_512.png" class="img-thumbnail" >
 </div>
 
 
