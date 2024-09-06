@@ -7,13 +7,12 @@ date: 2024
 published: true
 labels:
   - Python
-  - Cron Scheduler
-  - Automation
+  - Automation via cron scheduler
 summary: "I developed a python script that emails my friends and family automatically on their birthdays from my email with an customized birthday message."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
+  <img width="200px" src="https://avatars.slack-edge.com/2023-11-08/6160060559893_a5abfd42405fd67ff7bf_512.png" class="img-thumbnail" >
 </div>
 
 
