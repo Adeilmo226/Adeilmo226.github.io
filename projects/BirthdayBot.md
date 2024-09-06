@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://avatars.slack-edge.com/2023-11-08/6160060559893_a5abfd42405fd67ff7bf_512.png
+image: [https://avatars.slack-edge.com/2023-11-08/6160060559893_a5abfd42405fd67ff7bf_512.png](https://avatars.slack-edge.com/2023-11-08/6160060559893_a5abfd42405fd67ff7bf_512.png)
 title: "Birthday Bot"
 date: 2024
 published: true
@@ -12,7 +12,7 @@ summary: "I developed a python script that emails my friends and family automati
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="https://avatars.slack-edge.com/2023-11-08/6160060559893_a5abfd42405fd67ff7bf_512.png" class="img-thumbnail" >
+  <img width="200px" src="[https://avatars.slack-edge.com/2023-11-08/6160060559893_a5abfd42405fd67ff7bf_512.png](https://avatars.slack-edge.com/2023-11-08/6160060559893_a5abfd42405fd67ff7bf_512.png)" class="img-thumbnail" >
 </div>
 
 
