@@ -18,7 +18,7 @@ summary: "An interactive simulation of the University of Minnesota campus, featu
 </div>
 
 
-##Project Overview
+Project Overview
 This project is a detailed simulation of the University of Minnesota campus, incorporating a dynamic drone package delivery system. Users interact with the simulation by choosing two points on the campus map: one for picking up a package and the other for delivery. The simulation allows for multiple path-planning strategies, creating more realistic delivery scenarios.
 
 In addition to drones, the simulation includes other interactive entities like human figures walking the campus and a helicopter flying overhead. These elements add to the complexity and engagement of the environment. Over the course of the semester in CSCI 3081W: Program Design and Development, new features were introduced weekly, demonstrating various software development concepts such as design patterns, UI enhancements, and backend optimizations.
