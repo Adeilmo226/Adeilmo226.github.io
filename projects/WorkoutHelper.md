@@ -27,3 +27,5 @@ Next, I built a function that prompts the user to select a muscle group from the
 The trickiest part was ensuring that the program responds gracefully to incorrect inputs. If a muscle group or specific muscle wasn't recognized, I had to implement a way to notify the user and prompt them to try again. Originally, the program would just exit if there was a typo, but I added input validation to handle misspelled entries, which made the script more user-friendly.
 
 Overall, this project was a fun way to dive into Python dictionaries and user interaction. It gave me a better understanding of how to structure a program to handle input validation and offer a smooth user experience. Plus, it's nice to have a little tool that helps me organize my workouts more efficiently!
+
+Link to Workout Helper repository: https://github.com/Adeilmo226/WorkoutHelper/tree/main
