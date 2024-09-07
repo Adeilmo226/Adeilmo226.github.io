@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/umn campus.jpg
 title: "Campus Simulation"
 date: 2023
 published: true
