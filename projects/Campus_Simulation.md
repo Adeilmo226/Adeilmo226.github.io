@@ -6,8 +6,8 @@ title: "Campus Simulation"
 date: 2023
 published: true
 labels:
-  - TypeScript
   - Simulation
+  - TypeScript
   - C++
 summary: "An interactive simulation of the University of Minnesota campus, featuring drone deliveries, weather effects, and a 'porch pirate' extension, designed to explore real-world automation and security challenges."
 ---
