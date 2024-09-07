@@ -94,6 +94,8 @@ Cause: The lab machines are running an outdated version of GCC that does not ful
 
 Limitations: Updating the compiler may introduce compatibility issues with other parts of the project, so upgrading was not pursued.
 
-Additional Links
+Additional Links:
+
 Docker Hub: UMN Campus Simulation on Docker Hub
+
 YouTube Demo: UMN Campus Simulation Demo
