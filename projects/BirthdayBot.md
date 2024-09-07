@@ -9,7 +9,7 @@ date: 2024
 published: true
 labels:
   - Python
-  - Automation via 
+  - Automation
 summary: "A python script that emails my friends and family automatically on their birthdays with an customized birthday message."
 ---
 
