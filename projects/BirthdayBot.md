@@ -31,5 +31,4 @@ To automate this task, I used the cron schduler on my MacOS. It was my first tim
 Overall, this project proved to be pretty challenging but very rewarding in the end. I learned how to automate my program which was very cool and it was really fun being able to implement an idea I had into an actual program. 
 
 Link to BirthdayBot repository: https://github.com/Adeilmo226/BirthdayBot/tree/main
-```
 
