@@ -12,7 +12,7 @@ labels:
   - Dictionaries
   - User interaction
     
-summary: "A python script that emails my friends and family automatically on their birthdays with an customized birthday message."
+summary: "A python script to help users find exercises for specific muscle groups."
 ---
 
 <div class="text-center p-4">
