@@ -14,8 +14,7 @@ summary: "A python script that emails my friends and family automatically on the
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="https://avatars.slack-edge.com/2023-11-08/6160060559893_a5abfd42405fd67ff7bf_512.png" class="img-thumbnail" >
-  <img width="501" alt="Screenshot 2024-09-05 at 6 58 07 PM" src="https://github.com/user-attachments/assets/6c5090cc-5345-482d-a8c0-e6f054a2533a">
+  <img width="200px" alt="Screenshot 2024-09-05 at 6 58 07 PM" src="https://github.com/user-attachments/assets/6c5090cc-5345-482d-a8c0-e6f054a2533a">
 
 </div>
 
