@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "https://github.com/user-attachments/assets/85f84bc5-b946-4ac0-845f-3a6c9e185a44"
+image: img/micromouse/BirthdayBot.png
 
 
 title: "Birthday Bot"
