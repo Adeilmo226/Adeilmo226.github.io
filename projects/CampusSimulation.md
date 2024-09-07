@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/umn_campus.jpg
 title: "Campus Simulation"
-date: 2023
+date: 2024
 published: true
 labels:
   - Simulation
@@ -13,8 +13,9 @@ summary: "An interactive simulation of the University of Minnesota campus, featu
 ---
 
 
+
 <div class="text-center p-4">
-  
+  <img width="500px" alt="Screenshot 2024-09-06 at 3 18 47 PM" src="https://github.com/user-attachments/assets/60f9d844-82bf-441d-bc5e-5b3b72a6c139">
 </div>
 
 
@@ -43,17 +44,18 @@ In Docker:
 
 Features of the Simulation:
 
-	The simulation recreates various challenges and operational scenarios in a virtual campus setting. It models the movement and interaction of several entities, including drones, humans, robots, porch pirates, and even weather-based elements like clouds. Each entity follows a unique behavior pattern, simulating real-world interactions and challenges. This provides a solid framework for experimenting with algorithms and design patterns in a realistic setting.
+The simulation recreates various challenges and operational scenarios in a virtual campus setting. It models the movement and interaction of several entities, including drones, humans, robots, porch pirates, and even weather-based elements like clouds. Each entity follows a unique behavior pattern, simulating real-world interactions and challenges. This provides a solid framework for experimenting with algorithms and design patterns in a realistic setting.
 
 Key Entities:
 	
-	Drones: Execute package deliveries by flying between user-defined pickup and drop-off locations.
-	Humans and Helicopters: Add movement and activity to the simulation, enriching the campus atmosphere.
-	Robots and Porch Pirates: Compete to retrieve packages, adding a security-based gameplay element.
-	Weather Elements: Affect the behavior and speed of all moving entities in the simulation.
-	Extensions
-Porch Pirate Extension
-What does it do?
+Drones: Execute package deliveries by flying between user-defined pickup and drop-off locations.
+Humans and Helicopters: Add movement and activity to the simulation, enriching the campus atmosphere.
+Robots and Porch Pirates: Compete to retrieve packages, adding a security-based gameplay element.
+Weather Elements: Affect the behavior and speed of all moving entities in the simulation.
+
+
+Porch Pirate Extension:
+
 The porch pirate extension simulates a race between a robot and roaming porch pirates to retrieve a package. The robot starts at Keller Hall and navigates toward the package using the A* algorithm, while porch pirates wander the map randomly. If a porch pirate reaches the package first, it is considered stolen, and both the package and robot are removed from the simulation.
 
 Why is it interesting and useful in real life?
@@ -87,14 +89,14 @@ The weather extension adds another layer of complexity by simulating how weather
 
 Design Patterns Used:
 
-	The Singleton Pattern is employed in the weather extension to manage weather conditions across the simulation. It ensures that only 	one instance of the weather controller exists, allowing centralized management of weather effects. his reduces code complexity and 	ensures consistent weather conditions across the entire simulation.
+The Singleton Pattern is employed in the weather extension to manage weather conditions across the simulation. It ensures that only one instance of the weather controller exists, allowing centralized management of weather effects. his reduces code complexity and 	ensures consistent weather conditions across the entire simulation.
  
 Instructions to Use:
 
-	Start the Simulation: Load the simulation, which defaults to clear weather.
-	Change Weather Conditions: Use the buttons to start "Rain" or "Snow," which will slow down the speed of entities (to 70% for rain 	and 50% for snow).
-	Observe the Effects: The speed of all entities, including drones and porch pirates, will be adjusted based on the weather.
-	Reset Weather: Use the "Clear Weather" button to return to default sunny conditions.
+Start the Simulation: Load the simulation, which defaults to clear weather.
+Change Weather Conditions: Use the buttons to start "Rain" or "Snow," which will slow down the speed of entities (to 70% for rain 	and 50% for snow).
+Observe the Effects: The speed of all entities, including drones and porch pirates, will be adjusted based on the weather.
+Reset Weather: Use the "Clear Weather" button to return to default sunny conditions.
 
 
 Additional Links:
