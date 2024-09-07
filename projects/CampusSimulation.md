@@ -31,9 +31,6 @@ A weather system and a porch pirate scenario, both designed to add complexity, r
 
 Running the Simulation: 
 
-How do you run the simulation? This should also be an overview of the whole project, not just your extension:
-
-	To run the simulation, you must do the following commands:
 	Make -j
 	Make run (default port is 8081) or Make RUN=<portnumber> to choose a specific port number. 
  
