@@ -1,54 +1,17 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Bridging the Gap: Pursuing a Career in Both Computer Science and Fitness"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2024-09-06
 published: true
 labels:
-  - Engineering
+  - Physical wellbeing
+  - Fitness
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+As a computer science major with a deep passion for fitness and athletics, I’ve always felt torn between two worlds that don’t seem to overlap very often. Traditionally, careers in computer science or software engineering are associated with sedentary office environments, long hours spent sitting behind a screen, and a lifestyle that doesn’t naturally promote physical activity. On the other hand, fitness enthusiasts are often seen as physically active and constantly moving, thriving in hands-on, outdoor, or gym-centered roles. My dream is to combine these two seemingly opposite fields and carve out a career where I can both stay fit and active while leveraging my skills in computer science.
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+This goal might sound niche, but I see it as an exciting opportunity to innovate. There are countless ways that technology can be integrated into the fitness industry, from developing fitness-tracking apps and wearable technology, to designing software for gyms or creating virtual personal training systems. My aim is to combine the problem-solving mindset of a software engineer with the practical, hands-on experience of an athlete to create technology that promotes healthy living, enhances physical performance, and helps people maintain an active lifestyle, even in tech-focused careers.
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
-
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+I believe that the intersection of these fields is full of untapped potential, and by merging my two passions, I can challenge the stereotype that being a computer scientist means being glued to a desk all day. My ultimate goal is to develop tools, platforms, or systems that encourage others in the tech world to prioritize their health and fitness, creating a career that’s both mentally stimulating and physically engaging.
