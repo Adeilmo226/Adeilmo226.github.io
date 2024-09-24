@@ -2,7 +2,6 @@
 layout: essay
 type: essay
 title: "Bridging the Gap: Pursuing a Career in Both Computer Science and Fitness"
-# All dates must be YYYY-MM-DD format!
 date: 2024-09-06
 published: true
 labels:
