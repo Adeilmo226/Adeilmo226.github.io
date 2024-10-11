@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Bridging the Gap: Pursuing a Career in Both Computer Science and Fitness"
+title: "The Value of UI Frameworks in Web Development: My Experience with Bootstrap 5"
 date: 2024-10-10
 published: true
 labels:
