@@ -14,7 +14,7 @@ summary: "A python script that emails my friends and family automatically on the
 ---
 
 <div class="text-center p-4">
-  <img src="{{ page.image }}" alt="Campus" style="width: 100%; height: auto; display: block; margin: 0 auto;">
+  <img src="{{ page.image }}" alt="Birthdaybot" style="width: 100%; height: auto; display: block; margin: 0 auto;">
 </div>
 
 
