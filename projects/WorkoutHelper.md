@@ -16,7 +16,7 @@ summary: "A python script to help users find exercises for specific muscle group
 ---
 
 <div class="text-center p-4">
-  <img src="{{ page.image }}" alt="Workout Helper Image" class="full-width-image">
+  <img src="{{ page.image }}" alt="Workout Helper Image" style="width: 100%; height: auto; display: block; margin: 0 auto;">
 </div>
 
 I came up with this idea because I often find myself unsure about which exercises target specific muscles when I'm working out. I wanted a quick and easy way to identify exercises for particular muscle groups, so I decided to write a script that asks for a muscle group, then provides exercises tailored to that group. This seemed like a simple yet effective way to learn more about how to structure my workouts without constantly researching different exercises.
