@@ -15,9 +15,8 @@ summary: "An interactive simulation of the University of Minnesota campus, featu
 
 
 <div class="text-center p-4">
-  <img width="500px" alt="Screenshot 2024-09-06 at 3 18 47 PM" src="https://github.com/user-attachments/assets/60f9d844-82bf-441d-bc5e-5b3b72a6c139">
+  <img src="{{ page.image }}" alt="Campus" style="width: 100%; height: auto; display: block; margin: 0 auto;">
 </div>
-
 
 Project Overview:
 
