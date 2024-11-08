@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/robot_workout.webp
+image: img/robott.png
 
 
 title: "Workout Helper"
