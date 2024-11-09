@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/umncampus1.webp
+image: img/campuswide1.webp
 title: "Campus Simulation"
 date: 2024
 published: true
