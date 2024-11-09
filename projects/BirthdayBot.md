@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/BirthdayBot.png
+image: img/birthdayrobot1.webp
 
 
 title: "Birthday Bot"
