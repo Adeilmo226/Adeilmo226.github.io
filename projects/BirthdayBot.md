@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/finalbirthday.jpg
+image: img/birthdaybot.jpg
 
 
 title: "Birthday Bot"
@@ -12,10 +12,6 @@ labels:
   - Automation
 summary: "A python script that emails my friends and family automatically on their birthdays with an customized birthday message."
 ---
-
-<div class="text-center p-4">
-  <img src="{{ page.image }}" alt="Birthdaybot" style="width: 100%; height: auto; display: block; margin: 0 auto;">
-</div>
 
 
 
