@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/umn_campus.jpg
+image: img/umncampus.jpg
 title: "Campus Simulation"
 date: 2024
 published: true
