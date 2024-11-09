@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/BirthdayBot.jpg
+image: img/BirthdayBot.png
 
 
 title: "Birthday Bot"
