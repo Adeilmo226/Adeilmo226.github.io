@@ -15,7 +15,7 @@ One of the projects where I used my design pattern was a project called SpotMeBr
 But SpotMeBro wasn’t the only project where I got to see the magic of design patterns in action. In another project, a dynamic simulation of the University of Minnesota campus, we created a drone delivery system that incorporated design patterns to solve real-world problems. This project wasn’t just about delivering packages, it included weather systems, porch pirates, and more, all interacting in a simulated environment.
 For instance, we used the Observer Pattern again in a feature called the Porch Pirate Extension. A drone drops off a package on campus, but it’s a race against time: a robot must retrieve the package before wandering porch pirates “steal” it. The Observer Pattern kept the simulation running smoothly. The robot and porch pirates (Observers) stayed in sync with the package’s state (the Subject). Also, users on the front end were notified of any notable action that was taking place in the simulation on the side dashboard. (As seen below)
 
-![Picture of drone simulation](img/drone.png)
+![Picture of drone simulation](../img/drone.png)
 
 Another key part of this project was the Weather Extension, which used the Singleton Pattern to manage dynamic weather conditions affecting the simulation. The Singleton ensured there was only one instance of the weather controller at a time, keeping things consistent. For example, when rain or snow started, the speed of drones, robots, and porch pirates all adjusted automatically based on the weather. This added a new layer of complexity to the simulation, just like real-world weather impacts delivery systems.
 
