@@ -37,7 +37,7 @@ We used the Observer Pattern again in a feature called the *Porch Pirate Extensi
 
 Additionally, users on the front end were notified of any notable actions in the simulation through a side dashboard.  
 
-![Picture of drone simulation](../img/drone.png)
+<img src="../img/drone.png" alt="Picture of drone simulation" width="500">
 
 ---
 
