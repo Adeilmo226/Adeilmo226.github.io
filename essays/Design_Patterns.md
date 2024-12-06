@@ -31,7 +31,7 @@ But SpotMeBro wasn’t the only project where I got to see the magic of design p
 
 ### The Porch Pirate Extension: Observer Pattern
 We used the Observer Pattern again in a feature called the *Porch Pirate Extension*. Here’s how it worked:
-- A **drone drops off a package on campus.
+- A drone drops off a package on campus.
 - It’s a race against time: a robot must retrieve the package before wandering porch pirates “steal” it.
 - The Observer Pattern kept the simulation running smoothly. The robot and porch pirates (Observers) stayed in sync with the package’s state (the Subject).  
 
