@@ -196,6 +196,6 @@ SpotMeBro was designed and implemented by:
 
 ---
 
-Source: [GitHub Repository](https://github.com/spot-me-bro)  
+Source: [GitHub Repository](https://github.com/spot-me-bro/SpotMeBro-nextjs)  
 Deployment: [Live Site](https://spot-me-bro-nextjs.vercel.app/)  
 Project Homepage: [Documentation](https://github.com/spot-me-bro)  
