@@ -67,9 +67,7 @@
         "Intro to Artificial Intelligence",
         "Machine Architecture and Organization,"
       ]
-    }
-  ],
-  "education": [
+    },
     {
       "institution": "University of Hawaii at Manoa (Exchange Semester) ",
       "area": "Computer Science",
@@ -142,5 +140,5 @@
       "Led students in coding their own games using Python and Java during intensive 5-day programming workshops, combining hands-on learning with core programming concepts to build functional projects."
     ]
   }
-]
+ ]
 }
