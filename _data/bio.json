@@ -54,6 +54,17 @@
   ],
   "education": [
     {
+      "institution": "University of Hawaii at Manoa (Exchange Semester)",
+      "area": "Computer Science",
+      "studyType": "B.A.",
+      "startDate": "2024",
+      "endDate": "2024",
+      "courses": [
+        "Software Engineering",
+        "Database Systems"
+      ]
+    },
+    {
       "institution": "University of Minnesota - Twin Cities",
       "area": "Computer Science",
       "studyType": "B.A.",
@@ -66,17 +77,6 @@
         "Advanced Programming Principles",
         "Intro to Artificial Intelligence",
         "Machine Architecture and Organization"
-      ]
-    },
-    {
-      "institution": "University of Hawaii at Manoa (Exchange Semester)",
-      "area": "Computer Science",
-      "studyType": "B.A.",
-      "startDate": "2024",
-      "endDate": "2024",
-      "courses": [
-        "Software Engineering",
-        "Database Systems"
       ]
     }
   ],
