@@ -29,8 +29,8 @@
   },
   "interests": [
     { "name": "Software Engineering" },
-    { "name": "SalesForce" },
     { "name": "Web and Mobile Application Development" },
+    { "name": "SalesForce" },
     { "name": "Content Creation" },
     { "name": "Fitness" }
   ],
@@ -57,8 +57,8 @@
       "institution": "University of Minnesota - Twin Cities",
       "area": "Computer Science",
       "studyType": "B.A.",
-      "startDate": "2020-09-01",
-      "endDate": "2024-06-01",
+      "startDate": "2020",
+      "endDate": "2024",
       "courses": [
         "Algorithms and Data Structures",
         "Program Design and Development",
@@ -67,6 +67,17 @@
         "Intro to Artificial Intelligence",
         "Machine Architecture and Organization"
       ]
+    },
+    {
+      "institution": "University of Hawaii at Manoa (Exchange Semester)",
+      "area": "Computer Science",
+      "studyType": "B.A.",
+      "startDate": "2024",
+      "endDate": "2024",
+      "courses": [
+        "Software Engineering",
+        "Database Systems"
+      ]
     }
   ],
   "work": [
@@ -74,7 +85,7 @@
       "company": "University of Hawaii at Manoa",
       "position": "Teaching Assistant | BUS311",
       "website": "",
-      "startDate": "2024-09-01",
+      "startDate": "Sep 2024",
       "endDate": "Present",
       "summary": "Teaching Assistant for Business Technology Course",
       "highlights": [
@@ -86,8 +97,8 @@
       "company": "Geneva Discount Furniture",
       "position": "Business Operations Coordinator",
       "website": "",
-      "startDate": "2020-01-01",
-      "endDate": "2024-08-01",
+      "startDate": "2020",
+      "endDate": "2024",
       "summary": "Business Operations Coordinator for Retail Furniture Store",
       "highlights": [
         "Innovated inventory management by designing and implementing a mobile-based system to track furniture using barcodes, reducing stock management errors and improving operational efficiency by 20%.",
@@ -98,8 +109,8 @@
       "company": "Securian Financial",
       "position": "Data Management Intern",
       "website": "",
-      "startDate": "2023-06-01",
-      "endDate": "2023-08-01",
+      "startDate": "Jun 2023",
+      "endDate": "Aug 2023",
       "summary": "Data Management Intern for Financial Services Company",
       "highlights": [
         "Conducted a comprehensive assessment of enterprise data quality and gave a final presentation to key stakeholders, presenting findings and actionable recommendations that shaped future data management policies and automation improvements.",
@@ -110,8 +121,8 @@
       "company": "University of Minnesota - College of Liberal Arts",
       "position": "Data Analyst",
       "website": "",
-      "startDate": "2022-01-01",
-      "endDate": "2023-09-01",
+      "startDate": "2022",
+      "endDate": "2023",
       "summary": "Data Analyst for University Research Projects",
       "highlights": [
         "Led a team of five in conducting qualitative surveys on topics like campus safety and retention, analyzing data, and preparing visual reports with actionable insights for university administration. Improved decision-making efficiency by providing data-driven recommendations.",
@@ -122,8 +133,8 @@
       "company": "TecTacToe",
       "position": "Computer Programming Instructor",
       "website": "",
-      "startDate": "2022-06-01",
-      "endDate": "2022-08-01",
+      "startDate": "Jun 2022",
+      "endDate": "Aug 2022",
       "summary": "Computer Programming Instructor for Summer Coding Camps",
       "highlights": [
         "Led students in coding their own games using Python and Java during intensive 5-day programming workshops, combining hands-on learning with core programming concepts to build functional projects."
