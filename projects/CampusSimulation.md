@@ -15,7 +15,7 @@ summary: "An interactive simulation of the University of Minnesota campus, featu
 
 
 <div class="text-center p-4">
-  <img src="{{ page.image }}" alt="Campus" style="width: 100%; height: auto; display: block; margin: 0 auto;">
+  <img src="{{img/drone.png }}" alt="Campus" style="width: 100%; height: auto; display: block; margin: 0 auto;">
 </div>
 
 Project Overview:
