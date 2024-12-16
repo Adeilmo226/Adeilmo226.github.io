@@ -29,9 +29,8 @@ In addition to drones, the simulation includes other interactive entities like h
 ## Local Setup
 
 make -j
-make run    # Default port is 8081
 
-make RUN=<portnumber>    # To choose a specific port
+make run    # Default port is 8081
 
  
 ## Docker Setup
