@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ![](images/newlogo.png)
+image: ![](images/logo.png)
 title: "SpotMeBro"
 date: 2024
 published: true
