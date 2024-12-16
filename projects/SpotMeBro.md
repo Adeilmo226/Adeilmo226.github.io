@@ -183,19 +183,9 @@ To improve the platform, we gathered feedback from 5 community members:
 - **Improvement Areas**: Users requested more customization for profile details and suggested adding hyperlinks to workouts.  
 - **Planned Enhancements**: Based on feedback, we plan to improve performance, add profile customization, and revise the workout page for better guidance.  
 
-## Team Contract
-
-Our [Team Contract](https://docs.google.com/document/d/1R3GT8Ti9fhLgFd88CLp2sHaLnCis-MX7W9F1UdYqiRk/edit?tab=t.0#heading=h.9odkc9kfj5rj) outlines our roles, responsibilities, and development process.
-
-## Team
-
-SpotMeBro was designed and implemented by:  
-- **Ashton Aparra** (GitHub: ashtonaparra)  
-- **Adeil Mohammadzadah** (GitHub: Adeilmo226)  
-- **Coen Bracilano** (GitHub: CoenBracilano)  
 
 ---
 
 Source: [GitHub Repository](https://github.com/spot-me-bro/SpotMeBro-nextjs)  
 Deployment: [Live Site](https://spot-me-bro-nextjs.vercel.app/)  
-Project Homepage: [Documentation](https://github.com/spot-me-bro)  
+Project Homepage: [Documentation](https://spot-me-bro.github.io/)  
