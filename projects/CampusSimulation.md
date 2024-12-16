@@ -42,7 +42,8 @@ docker run --rm -it -p 8083:8083 adeilmo226/3081_finalproject
 
 **Build the image:**
 
-docker build -t adeilmo226/3081_finalproject .
+docker build -t adeilmo226/3081_finalproject
+
 ---
 
 ## Features of the Simulation
