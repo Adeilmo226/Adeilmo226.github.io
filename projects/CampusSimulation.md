@@ -12,7 +12,7 @@ labels:
 summary: "An interactive simulation of the University of Minnesota campus, featuring drone deliveries, weather effects, and a 'porch pirate' extension, designed to explore real-world automation and security challenges."
 ---
 
-![Campus Simulation](../img/drone.png)
+<img src="../img/drone.png" alt="Campus Simulation" width="50%">
 
 ## Project Overview
 
@@ -30,7 +30,7 @@ In addition to drones, the simulation includes other interactive entities like h
 
 You can run the simulation locally or using Docker. Below are instructions for both methods.
 
-**Local Setup**
+### **Local Setup**
 
 make -j
 make run    # Default port is 8081
@@ -38,13 +38,13 @@ make run    # Default port is 8081
 make RUN=<portnumber>    # To choose a specific port
 
  
-**Docker Setup**
+### Docker Setup
 
-Run the container:
+**Run the container:**
 
 docker run --rm -it -p 8083:8083 adeilmo226/3081_finalproject
 
-Build the image:
+**Build the image:**
 
 docker build -t adeilmo226/3081_finalproject .
 
@@ -63,7 +63,7 @@ The simulation recreates various challenges and operational scenarios in a virtu
 ## **Porch Pirate Extension**
 
 ### What does it do?
-The porch pirate extension simulates a race between a robot and roaming porch pirates to retrieve a package. The robot starts at Keller Hall and navigates toward the package using the **A* algorithm**, while porch pirates wander the map randomly. If a porch pirate reaches the package first, it is considered stolen, and both the package and robot are removed from the simulation.
+The porch pirate extension simulates a race between a robot and roaming porch pirates to retrieve a package. The robot starts at Keller Hall and navigates toward the package using the A* algorithm, while porch pirates wander the map randomly. If a porch pirate reaches the package first, it is considered stolen, and both the package and robot are removed from the simulation.
 
 ### Why is it interesting and useful in real life?
 This extension models the real-world issue of package theft, commonly known as "porch pirating." It provides insight into how delivery systems can combat theft through automation and robotics. The simulation can help:  
