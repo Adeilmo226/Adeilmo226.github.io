@@ -112,5 +112,5 @@ The weather extension adds another layer of complexity by simulating how weather
 
 ## **Additional Links**
 
-- **Docker Hub**: [View Docker Image](https://hub.docker.com/repository/docker/adeilmo226/3081_finalproject/general)  
-- **YouTube Demo**: [Watch the Simulation](https://www.youtube.com/watch?v=pb3om2BIyzk&ab_channel=AdeilMo)  
+- [View Docker Image](https://hub.docker.com/repository/docker/adeilmo226/3081_finalproject/general)  
+- [YouTube Demo](https://www.youtube.com/watch?v=pb3om2BIyzk&ab_channel=AdeilMo)  
