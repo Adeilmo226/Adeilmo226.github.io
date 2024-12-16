@@ -117,28 +117,28 @@ Planned enhancements include:
 ## Screenshots
 
 **Landing Page**  
-![Landing Page](images/LANDINGPAGE1.png)  
+![Landing Page](img/LANDINGPAGE1.png)  
 
 **Learn More Page**  
-![Learn More Page](images/LEARNMORE1.png)  
+![Learn More Page](img/LEARNMORE1.png)  
 
 **Admin Page**  
-![Admin Page](images/ADMIN1.png)  
+![Admin Page](img/ADMIN1.png)  
 
 **Sign Up Page**  
-![Sign Up Page](images/SIGNUP1.png)  
+![Sign Up Page](img/SIGNUP1.png)  
 
 **Login Page**  
-![Login Page](images/Login1.png)  
+![Login Page](img/Login1.png)  
 
 **Select a Workout Page**  
-![Select a Workout Page](images/SELECTWORKOUT1.png)  
+![Select a Workout Page](img/SELECTWORKOUT1.png)  
 
 **Potential Partners Page**  
-![Potential Partners Page](images/PARTNERS1.png)  
+![Potential Partners Page](img/PARTNERS1.png)  
 
 **Workouts Page**  
-![Workouts Page](images/WORKOUTS1.png)  
+![Workouts Page](img/WORKOUTS1.png)  
 
 ## Development History
 
@@ -146,7 +146,7 @@ Planned enhancements include:
 - [Link to M1 Project Page](https://github.com/orgs/spot-me-bro/projects/5)  
 - Initial design of database models and creation of core pages/components.  
 
-![M1 Progress](images/M1progress.png)  
+![M1 Progress](img/M1progress.png)  
 
 ---
 
@@ -154,7 +154,7 @@ Planned enhancements include:
 - [Link to M2 Project Page](https://github.com/orgs/spot-me-bro/projects/6)  
 - Created a working app referencing the database for information.  
 
-![M2 Progress](images/updatedm2.png)  
+![M2 Progress](img/updatedm2.png)  
 
 ---
 
@@ -162,7 +162,7 @@ Planned enhancements include:
 - [Link to M3 Project Page](https://github.com/orgs/spot-me-bro/projects/7)  
 - Finalized design, implemented user-friendly interfaces, and enhanced app performance.  
 
-![M3 Progress](images/M3DONE.png)  
+![M3 Progress](img/M3DONE.png)  
 
 ---
 
