@@ -26,11 +26,7 @@ In addition to drones, the simulation includes other interactive entities like h
 
 ---
 
-## Running the Simulation
-
-You can run the simulation locally or using Docker. Below are instructions for both methods.
-
-### **Local Setup**
+## Local Setup
 
 make -j
 make run    # Default port is 8081
@@ -38,7 +34,7 @@ make run    # Default port is 8081
 make RUN=<portnumber>    # To choose a specific port
 
  
-### Docker Setup
+## Docker Setup
 
 **Run the container:**
 
@@ -47,6 +43,7 @@ docker run --rm -it -p 8083:8083 adeilmo226/3081_finalproject
 **Build the image:**
 
 docker build -t adeilmo226/3081_finalproject .
+---
 
 ## Features of the Simulation
 
