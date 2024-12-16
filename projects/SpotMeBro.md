@@ -38,7 +38,7 @@ The project was developed using modern web development frameworks and agile soft
 ## Project Documentation
 
 <div style="display: flex; justify-content: center; margin: 20px 0;">
-  <iframe src="https://github.com/spot-me-bro" width="100%" height="600px" frameborder="0" title="SpotMeBro Documentation"></iframe>
+  <iframe src="https://spot-me-bro.github.io/" width="100%" height="600px" frameborder="0" title="SpotMeBro Documentation"></iframe>
 </div>
 
 ## Technical Framework
