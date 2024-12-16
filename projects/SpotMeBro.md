@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/SpotMeBro.png
+image: img/workoutwide.webp
 title: "SpotMeBro"
 date: 2024
 published: true
