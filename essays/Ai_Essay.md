@@ -22,7 +22,7 @@ In ICS 314, I used AI tools to my advantage, and my personal favorite use of AI 
 
 **Experience WODs (e.g., E18)**
 
-For the Experience WODs, I tried to complete them on my own first. If I got stuck, I would follow along with the instructional video. However, sometimes the video would be outdated or unclear, so I would turn to AI for help. For example, I once asked ChatGPT, *“Why is this Bootstrap layout not displaying as expected in Next.js?”* The response guided me to check the CSS import order, which ended up being the problem. AI was useful here because it offered an explanation, not just a solution.
+For the Experience WODs, I tried to complete them on my own first. If I got stuck, I would follow along with the instructional video. However, sometimes the video would be outdated or unclear, so I would turn to AI for help. For example, I once asked ChatGPT, *“What import statement am I missing from this file?”* The response would promptly gave me the correct answer and AI was useful here because it offered an explanation, not just a solution.
 
 **In-class Practice WODs**
 
@@ -30,7 +30,7 @@ I didn’t use AI much for in-class practice WODs. These were typically shorter 
 
 **In-class WODs**
 
-At first, I didn’t use AI for in-class WODs because they were simpler. But as they became more complex, especially when multiple files like React, Next.js, and Bootstrap were involved, I started using AI to troubleshoot. I would ask things like, *“How do I properly import a component in Next.js?”* or *“Why is this React component not re-rendering after state change?”* AI was helpful for specific, targeted questions, but it became less useful as the WODs required integrating multiple files. The complexity of managing multiple technologies sometimes made AI responses less relevant. 
+At first, I didn’t use AI for in-class WODs because they were simpler. But as they became more complex, especially when multiple files like React, Next.js, and Bootstrap were involved, I started using AI to troubleshoot. I would ask things like, *“How do I properly import a component in Next.js?”*. AI was helpful for specific, targeted questions, but it became less useful as the WODs required integrating multiple files. The complexity of managing multiple technologies sometimes made AI responses less relevant. 
 
 **Essays**
 
@@ -62,11 +62,11 @@ I used AI frequently to explain code. If I copied a block of code and asked, *�
 
 **Writing Code**
 
-While I did use AI to help write small code snippets, I didn’t rely on it too much for larger pieces. Sometimes, I would ask AI to *“Write a function that filters an array of objects by a property value,”* but I would often modify the output. AI sometimes used advanced techniques or shortcuts I wasn’t familiar with, and I preferred to write code explicitly so I understood every line. 
+While I did use AI to help write small code snippets, I didn’t rely on it too much for larger pieces. Sometimes, I would ask AI to *“Write a function that filters an array”* but I would often modify the output. AI sometimes used advanced techniques or shortcuts I wasn’t familiar with, and I preferred to write code explicitly so I understood every line. 
 
 **Documenting Code**
 
-AI was great for documenting code. I would ask it, *“Write JSDoc comments for this function,”* and it would provide clear documentation. This saved me time and ensured I had proper comments. 
+AI was great for documenting code. I would ask it, *“Write comments for this function,”* and it would provide clear documentation. This saved me time and ensured I had proper comments. 
 
 **Quality Assurance**
 
