@@ -35,8 +35,6 @@ Originally, I wanted the program to send text messages, but after research, I re
 
 ---
 
-## Challenges and Learnings
-
 ### Challenges
 - Setting up secure email automation using Gmail with app passwords.  
 - Automating the script reliably so it runs every day without manual intervention.  
