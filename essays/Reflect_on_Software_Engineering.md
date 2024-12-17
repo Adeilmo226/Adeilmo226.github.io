@@ -48,9 +48,6 @@ In ICS 314, we explored design patterns when building our web application for th
 Beyond web development, design patterns are useful for all types of software. For example, an example an old professor of mine used to explain the Observer pattern was how applications like Spotify use the Observer pattern for managing email subscriptions. When a user subscribes to notifications, they become an "observer" of certain events, such as new music releases, playlist updates, or personalized recommendations. When Spotify detects that a new album or playlist is available, it notifies all subscribed users (the observers) automatically. This way, the system keeps users updated without requiring each user to manually check for updates.
 Similarly, the Singleton pattern can be used to manage resources like database connections or configurations, ensuring that there is only one instance of these components running at any given time to improve efficiency and prevent conflicts.
 
-
-Understanding design patterns has given me a new perspective on software development. Instead of writing code haphazardly, I now see the value in using established patterns to solve problems more effectively.
-
 ---
 
 ## Conclusion  
