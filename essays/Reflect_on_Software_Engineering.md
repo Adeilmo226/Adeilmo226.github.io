@@ -13,7 +13,7 @@ labels:
 
 At the beginning of ICS 314, I was primarily excited about learning web application development. I wanted to gain the skills to build functional, interactive websites and applications. While the course certainly taught me about web development, I quickly realized that the real value came from understanding fundamental software engineering concepts that go far beyond web applications. Concepts like configuration management, Agile project management, and design patterns are the most valuable concepts I got out of this class. 
 
-This essay reflects on what I have learned about these three concepts: configuration management, Agile project management, and design patterns. I will explain each of these terms and discuss how they can be applied in various software engineering contexts, including but not limited to web development.
+This essay reflects on what I have learned about these three concepts: Configuration Management, Agile Project Management, and Design Patterns. I will explain each of these terms and discuss how they can be applied in various software engineering contexts, including but not limited to web development.
 
 ---
 
