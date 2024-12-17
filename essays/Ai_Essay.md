@@ -12,7 +12,7 @@ labels:
 
 ## Introduction
 
-With the release of AI tools like ChatGPT, Bard, and Co-Pilot, there has been a dramatic shift in how students approach their coursework in college. For me, I can’t imagine how I made it through my first few years of college without them. AI has become a valuable resource for students and professionals in software engineering for several reasons. It can speed up repetitive tasks, assist with debugging, and provide explanations for complex concepts. 
+With the release of AI tools like ChatGPT, Bard, and Co-Pilot, there has been a dramatic shift in how students approach their coursework in college. For me, I can’t imagine how I made it through my first few years of college without them. AI has become a valuable resource for students and professionals in software engineering for several reasons. It can speed up repetitive tasks, assist with debugging, and provide explanations for complex concepts.  
 
 In ICS 314, I used AI tools to my advantage, and my personal favorite use of AI was for handling tedious tasks and troubleshooting issues. It felt like having a better, more interactive version of Google. Instead of scouring pages of search results, I could ask a direct question and get an immediate, focused response. This saved me a lot of time and a lot of headaches. While I have heard that tools like Claude and Google's Gemini are great for coding, I stuck with ChatGPT since it has always been reliable for me. 
 
