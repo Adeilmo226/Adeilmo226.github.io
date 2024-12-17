@@ -12,7 +12,7 @@ labels:
 summary: "A Python script that emails my friends and family automatically on their birthdays with a customized birthday message."
 ---
 
-![Birthday Bot](../img/birthdaywide.webp)
+![Birthday Bot](../img/BirthdayEmail.png)
 
 ## Project Overview
 
