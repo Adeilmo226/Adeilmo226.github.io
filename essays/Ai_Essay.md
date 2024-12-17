@@ -18,7 +18,7 @@ In ICS 314, I used AI tools to my advantage, and my personal favorite use of AI 
 
 ---
 
-## Personal Experience with AI
+## Personal Experience with AI 
 
 ### **Experience WODs (e.g., E18)**
 For the Experience WODs, I tried to complete them on my own first. If I got stuck, I would follow along with the instructional video. However, sometimes the video would be outdated or unclear, so I would turn to AI for help. For example, I once asked ChatGPT, *“Why is this Bootstrap layout not displaying as expected in Next.js?”* The response guided me to check the CSS import order, which ended up being the problem. AI was useful here because it offered an explanation, not just a solution.
