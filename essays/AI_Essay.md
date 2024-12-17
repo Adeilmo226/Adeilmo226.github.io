@@ -33,10 +33,10 @@ At first, I didn’t use AI for in-class WODs because they were simpler. But as 
 For essays, I used AI as a grammar checker and as a way to refine my writing. After I did a "brain dump" of my thoughts, I would copy and paste it into ChatGPT and ask, *“Can you improve the grammar and sentence flow of this paragraph?”* This was incredibly helpful for making my writing more clear and professional. I found it saved me a lot of time since I didn’t have to review and edit every sentence manually. 
 
 ### **Final Project**
-AI played a big role in my final project. Most of my usage was for troubleshooting. When I encountered an error, I would copy the error message into ChatGPT and ask, *“What does this error mean and how do I fix it?”* For example, when dealing with MongoDB connection errors, AI helped me understand that I had misconfigured my `.env` file. While AI was great at explaining errors, it wasn’t as effective at solving ESLint issues. I would ask, *“Fix these ESLint errors,”* and the suggestions it provided didn’t always work. 
+AI played a big role in my final project. Most of my usage was for troubleshooting. When I encountered an error, I would copy the error message into ChatGPT and ask, *“What does this error mean and how do I fix it?”* For example, when dealing with database connection errors, AI helped me understand that I had misconfigured my `.env` file. While AI was great at explaining errors, it wasn’t as effective at solving ESLint issues. I would ask, *“Fix these ESLint errors,”* and the problems would still persist. 
 
 ### **Learning a Concept / Tutorial**
-If I didn’t understand a concept, I would ask ChatGPT to explain it with examples. For instance, I asked, *“Can you explain how React hooks work with a simple example?”* The response gave me an easy-to-understand explanation and code snippet. I found this approach much faster than reading long tutorials online. I used this method frequently throughout the course. 
+If I didn’t understand a concept, I would ask ChatGPT to explain it with examples. For instance, I asked, *“Can you explain how React is different from react bootstrap?”* The response gave me an easy-to-understand explanation. I found this approach much faster than reading long tutorials online. I used this method frequently throughout the course. 
 
 ### **Answering a Question in Class or on Discord**
 I never used AI to answer questions during class or on Discord. I felt that it was more important to hear the instructor's or classmates' explanations since they were more relevant to the course context. 
@@ -78,7 +78,7 @@ Outside of ICS 314, I used AI for personal projects. For instance, I created an 
 
 ## Challenges and Opportunities
 
-One major challenge with AI is that it’s not perfect. It struggles with certain areas like math, statistics, and fixing large ESLint errors. I also learned that it’s best to feed files into AI one at a time instead of all at once. On the flip side, AI presents major opportunities. It can be a personal tutor, debugger, and writing assistant all in one. I believe future classes should teach students *how* to use AI effectively. 
+One major challenge with AI is that it’s not perfect. I have had struggles with certain areas like math, statistics, and fixing large ESLint errors. I also learned that it’s best to feed files into AI one at a time instead of all at once. On the flip side, AI presents major opportunities. It can be a personal tutor, debugger, and writing assistant all in one. I believe future classes should teach students how to use AI effectively. 
 
 ---
 
@@ -96,4 +96,4 @@ AI is only going to get better. Tools like Co-Pilot are already being used in th
 
 ## Conclusion
 
-AI has been a game-changer for my learning in ICS 314. From debugging to concept explanations, it saved me time and reduced stress. While it’s not perfect, I believe AI should be seen as a tool to enhance education, not replace it. Going forward, I recommend that students focus on *learning from AI*, not just copying it. 
+AI has been a game-changer for my learning in ICS 314. From debugging to concept explanations, it saved me time and reduced stress. While it’s not perfect, I believe AI should be seen as a tool to enhance education, not replace it. Going forward, I recommend that students focus on learning from AI, not just copying and pasting from it. 
