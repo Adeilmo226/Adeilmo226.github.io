@@ -20,46 +20,46 @@ In ICS 314, I used AI tools to my advantage, and my personal favorite use of AI 
 
 ## Personal Experience with AI 
 
-### **Experience WODs (e.g., E18)**
+**Experience WODs (e.g., E18)**
 For the Experience WODs, I tried to complete them on my own first. If I got stuck, I would follow along with the instructional video. However, sometimes the video would be outdated or unclear, so I would turn to AI for help. For example, I once asked ChatGPT, *“Why is this Bootstrap layout not displaying as expected in Next.js?”* The response guided me to check the CSS import order, which ended up being the problem. AI was useful here because it offered an explanation, not just a solution.
 
-### **In-class Practice WODs**
+**In-class Practice WODs**
 I didn’t use AI much for in-class practice WODs. These were typically shorter and less stressful, so I tried to complete them on my own. If I ran into an issue, I would troubleshoot it myself. However, if something small like syntax was off, I would ask AI questions like, *“What’s the correct syntax for a forEach loop in JavaScript?”* AI was helpful for quick answers like this, but I didn’t rely on it heavily during practice WODs. 
 
-### **In-class WODs**
+**In-class WODs**
 At first, I didn’t use AI for in-class WODs because they were simpler. But as they became more complex, especially when multiple files like React, Next.js, and Bootstrap were involved, I started using AI to troubleshoot. I would ask things like, *“How do I properly import a component in Next.js?”* or *“Why is this React component not re-rendering after state change?”* AI was helpful for specific, targeted questions, but it became less useful as the WODs required integrating multiple files. The complexity of managing multiple technologies sometimes made AI responses less relevant. 
 
-### **Essays**
+**Essays**
 For essays, I used AI as a grammar checker and as a way to refine my writing. After I did a "brain dump" of my thoughts, I would copy and paste it into ChatGPT and ask, *“Can you improve the grammar and sentence flow of this paragraph?”* This was incredibly helpful for making my writing more clear and professional. I found it saved me a lot of time since I didn’t have to review and edit every sentence manually. 
 
-### **Final Project**
+**Final Project**
 AI played a big role in my final project. Most of my usage was for troubleshooting. When I encountered an error, I would copy the error message into ChatGPT and ask, *“What does this error mean and how do I fix it?”* For example, when dealing with database connection errors, AI helped me understand that I had misconfigured my `.env` file. While AI was great at explaining errors, it wasn’t as effective at solving ESLint issues. I would ask, *“Fix these ESLint errors,”* and the problems would still persist. 
 
-### **Learning a Concept / Tutorial**
+**Learning a Concept / Tutorial**
 If I didn’t understand a concept, I would ask ChatGPT to explain it with examples. For instance, I asked, *“Can you explain how React is different from react bootstrap?”* The response gave me an easy-to-understand explanation. I found this approach much faster than reading long tutorials online. I used this method frequently throughout the course. 
 
-### **Answering a Question in Class or on Discord**
+**Answering a Question in Class or on Discord**
 I never used AI to answer questions during class or on Discord. I felt that it was more important to hear the instructor's or classmates' explanations since they were more relevant to the course context. 
 
-### **Asking or Answering a Smart Question**
+**Asking or Answering a Smart Question**
 While I never used AI to ask or answer smart questions in class, I did use it to help me draft better emails. For example, I would ask, *“Can you help me write a professional email to my professor about missing class on Monday?”* This made my emails sound more polished and professional. 
 
-### **Coding Example (e.g., using `_.pluck`)**
+**Coding Example (e.g., using `_.pluck`)**
 I didn’t use AI much to generate code examples. I prefer to write my own code from scratch so I can fully understand it. However, if I needed clarification on a method or function, I would ask something like, *“How does the _.pluck method in Underscore.js work?”* and AI would provide clear examples. 
 
 ### **Explaining Code**
 I used AI frequently to explain code. If I copied a block of code and asked, *“Can you explain what this function does?”* it would break it down line-by-line. This was extremely useful when I was trying to understand code from documentation or tutorials. 
 
-### **Writing Code**
+**Writing Code**
 While I did use AI to help write small code snippets, I didn’t rely on it too much for larger pieces. Sometimes, I would ask AI to *“Write a function that filters an array of objects by a property value,”* but I would often modify the output. AI sometimes used advanced techniques or shortcuts I wasn’t familiar with, and I preferred to write code explicitly so I understood every line. 
 
-### **Documenting Code**
+**Documenting Code**
 AI was great for documenting code. I would ask it, *“Write JSDoc comments for this function,”* and it would provide clear documentation. This saved me time and ensured I had proper comments. 
 
-### **Quality Assurance**
+**Quality Assurance**
 I used AI to help me debug issues, especially during the final project. I would copy and paste my broken code and ask, *“What’s wrong with this code?”* The AI would point out syntax issues or logic errors, which was helpful. However, it failed to resolve ESLint errors, especially when I asked it to *“Fix these ESLint errors for this file.”* The suggestions didn’t always work, so I had to resolve them manually. 
 
-### **Other Uses in ICS 314**
+**Other Uses in ICS 314**
 Other than the above, I mostly used AI for tedious, repetitive tasks and troubleshooting. It saved me from having to scroll through endless forum posts and documentation. 
 
 ---
