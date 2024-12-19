@@ -14,7 +14,7 @@ labels:
 
 When I first started coding, I saw coding standards as nothing more than a bunch of annoying rules I had to follow before turning in an assignment. A lot of my classmates feel the same way. People focus on small details like whether to use two spaces or four for indentation or where to place a closing curly brace. Honestly, I used to think it was all pretty pointless.  
 
-But that changed after I got some industry experience during an internship. I realized that in the real world, coding standards aren’t just about nitpicky details — they’re essential for keeping large projects organized and manageable. When you're working with multiple people on the same project, coding standards help keep everything consistent, improve readability, and make it easier for everyone to collaborate.  
+But that changed after I got some industry experience during an internship. I realized that in the real world, coding standards are essential for keeping large projects organized and manageable. When you're working with multiple people on the same project, coding standards help keep everything consistent, improve readability, and make it easier for everyone to collaborate.  
 
 ---
 
