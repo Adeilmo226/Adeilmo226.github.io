@@ -15,6 +15,7 @@ labels:
 When I first started learning web development, I had no idea how to use HTML or CSS. It felt overwhelming because writing code from scratch was tedious and time-consuming. I’ve always been drawn to the creative and visual side of technology, so I was excited about building websites. But when I realized how much effort it takes to make even a simple web page look nice, it became clear how hard web design really is. Aligning and styling elements was especially challenging, and I spent a lot of time trying to figure out how everything worked.  
 
 That’s when I discovered UI frameworks like Bootstrap 5, and they completely changed the way I approach web development. A UI framework provides pre-built components and tools that make designing websites faster and easier.
+
 ---
 
 ## What is Bootstrap 5?  
