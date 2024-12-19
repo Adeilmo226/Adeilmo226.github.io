@@ -59,6 +59,7 @@ The simulation recreates various challenges and operational scenarios in a virtu
 
 ## <u>Porch Pirate Extension</u>
 
+
 #### What does it do?
 The porch pirate extension simulates a race between a robot and roaming porch pirates to retrieve a package. The robot starts at Keller Hall and navigates toward the package using the A* algorithm, while porch pirates wander the map randomly. If a porch pirate reaches the package first, it is considered stolen, and both the package and robot are removed from the simulation.
 
@@ -85,6 +86,7 @@ The porch pirate extension introduces unpredictability by adding competitive ent
 ---
 
 ## <u>Weather Extension</u>
+
 
 #### What does it do?
 The weather extension controls dynamic weather conditions—rain, snow, and sunshine—which affect the speed of every entity in the simulation. Drones, robots, and even porch pirates will adjust their speeds based on the current weather conditions.
