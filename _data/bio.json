@@ -6,7 +6,7 @@
     "email": "adeilmo@hawaii.edu",
     "phone": "763-807-0395",
     "website": "https://Adeilmo226.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2024.",
+    "summary": "I am studying for a B.A. in Computer Science from the University of Minnesota - Twin Cities. I am currently doing an exchange semester at the University of Hawaii - Manoa. I expect to graduate in Dec 2024.",
     "location": {
       "address": "",
       "postalCode": "96826",
@@ -30,9 +30,9 @@
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Web and Mobile Application Development" },
-    { "name": "SalesForce" },
-    { "name": "Content Creation" },
-    { "name": "Fitness" }
+    { "name": "Fitness" },
+    { "name": "Calisthenics" },
+    { "name": "Hiking" }
   ],
   "skills": [
     {
