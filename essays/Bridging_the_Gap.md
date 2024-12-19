@@ -5,12 +5,39 @@ title: "Bridging the Gap: Pursuing a Career in Both Computer Science and Fitness
 date: 2024-09-06
 published: true
 labels:
-  - Physical wellbeing
-  - Fitness
+  - Health Tech
+  - Fitness Technology
+  - Career Goals
+  - Software Development
+  - Innovation
 ---
 
-As a computer science major with a deep passion for fitness and athletics, I’ve always felt torn between two worlds that don’t seem to overlap very often. Traditionally, careers in computer science or software engineering are associated with sedentary office environments, long hours spent sitting behind a screen, and a lifestyle that doesn’t naturally promote physical activity. On the other hand, fitness enthusiasts are often seen as physically active and constantly moving, thriving in hands-on, outdoor, or gym-centered roles. My dream is to combine these two seemingly opposite fields and carve out a career where I can both stay fit and active while leveraging my skills in computer science.
+## Introduction  
 
-This goal might sound niche, but I see it as an exciting opportunity to innovate. There are countless ways that technology can be integrated into the fitness industry, from developing fitness-tracking apps and wearable technology, to designing software for gyms or creating virtual personal training systems. My aim is to combine the problem-solving mindset of a software engineer with the practical, hands-on experience of an athlete to create technology that promotes healthy living, enhances physical performance, and helps people maintain an active lifestyle, even in tech-focused careers.
+As a computer science major with a passion for fitness and athletics, I’ve always felt torn between two worlds that seem completely different. People usually think of software engineers as sitting behind a desk for hours, staring at a screen in an office. On the flip side, fitness enthusiasts are seen as active, always moving, and working in gyms or outdoor environments. These two lifestyles seem like opposites, but my goal is to combine them into one career. I want to have a job where I can stay active and fit while still using my skills in computer science to create something meaningful.  
 
-I believe that the intersection of these fields is full of untapped potential, and by merging my two passions, I can challenge the stereotype that being a computer scientist means being glued to a desk all day. My ultimate goal is to develop tools, platforms, or systems that encourage others in the tech world to prioritize their health and fitness, creating a career that’s both mentally stimulating and physically engaging.
+At first, this goal seemed unrealistic. But when I started looking into the health tech industry, I realized that there are so many ways to merge these two fields. From building fitness-tracking apps to creating wearable devices, there are tons of opportunities to combine technology with health and fitness. My goal is to bring the problem-solving skills of a software engineer and the practical experience of an athlete together. I want to create technology that promotes healthier living, helps people improve their physical performance, and encourages active lifestyles—especially for those working in tech careers.  
+
+---
+
+## How I Plan to Reach This Goal  
+
+To make this dream a reality, I plan to build skills in both software development and fitness technology. On the software side, I’m learning programming languages like Python, JavaScript, and TypeScript, as well as frameworks like React. I also want to explore tools for collecting and analyzing data because wearables and fitness apps rely heavily on data analytics. This includes learning how to work with APIs and databases since most fitness apps pull in data from other platforms and store user information.  
+
+On the fitness side, I plan to continue staying active and learning about human performance and exercise science. If I want to create software that helps people stay healthy, I need to understand how fitness works on a deeper level. For example, if I’m building an app to improve athletic performance, I need to know what kinds of metrics (like heart rate or oxygen levels) are important for tracking progress.  
+
+Another key step for me is to work on personal projects that combine fitness and technology. This will give me the chance to experiment with my ideas and build a portfolio that I can show to future employers. For example, I’m thinking of creating a simple fitness-tracking app as a side project. It could be a basic app where users log their daily workouts, track progress, and receive reminders to stay active. This kind of project would not only give me experience with app development but also show potential employers that I’m serious about this career path.  
+
+---
+
+## The Bigger Picture  
+
+When I think about the bigger picture, I see my goal as more than just a personal dream. It’s also a chance to impact the tech industry in a positive way. So many people working in tech have sedentary jobs, where they sit for hours without much movement. This lifestyle can lead to serious health problems like back pain, weight gain, and mental fatigue. 
+
+By creating apps, wearables, or interactive platforms, I want to help people in tech prioritize their health. It could be something as simple as a "move alert" that reminds users to stand up, stretch, or do a quick bodyweight workout. Or it could be something bigger, like a personalized training program that adjusts your workouts based on your schedule. Whatever form it takes, I want to create something that helps people stay active, healthy, and productive—even if they’re working long hours in front of a computer.  
+
+---
+
+## Conclusion  
+
+By developing technology that promotes healthy living, I hope to encourage others in tech to prioritize their health. For me, this career path is exciting because it combines two of my biggest passions: problem-solving through software development and staying physically active. I’m excited to continue building my skills and working toward this goal in the future.  
