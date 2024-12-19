@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The power of “smart” questions in software engineering"
+title: "The Power of Smart Questions in Software Engineering"
 date: 2024-09-12
 published: true
 labels:
@@ -9,20 +9,44 @@ labels:
   - Software Engineering
 ---
 
-In the field of software engineering, it is very common to encounter challenges that require seeking help from others, often through online sites like StackOverflow. However, not all questions are created, as the way a question is asked can greatly affect the quality and quantity of the responses received. Effective communication is a crucial skill for software engineers, especially when requesting assistance from the online community. In Eric Raymond’s essay, How to Ask Questions the Smart Way, he outlines important strategies for framing questions in a way that encourages helpful and meaningful responses. By mastering the art of asking “smart” questions, software engineers can gain better insights and improve their overall communication with their peers. 
-In this essay, I will compare two questions from StackOverflow, one that demonstrates the “smart” approach to asking questions and one that demonstrates a “not so smart” approach, as outlined in Eric's essay. Some key factors mentioned in the essay regarding the “smart” approach include conducting thorough research before asking, being clear and concise, providing sufficient context, and demonstrating effort in attempting to solve the problem.
-	
+## Why Asking Questions Matters in Software Engineering  
 
+In software engineering, it’s super common to run into problems where you need help from other people. Whether you’re stuck on a bug or don’t understand a concept, asking questions is a big part of the learning and development process. A lot of software engineers turn to sites like StackOverflow to get answers, but the way you ask your question can make a huge difference in the kind of help you get.  
 
-Example of a Smart Question: https://stackoverflow.com/questions/60174/how-can-i-prevent-sql-injection-in-php
+In his essay *How to Ask Questions the Smart Way*, Eric Raymond explains how to ask questions that actually get good responses. He says things like doing research first, being clear and specific, and giving enough details about your problem are all important when asking for help. In this essay, I’ll compare two questions from StackOverflow—one that’s a good example of a “smart” question and one that’s not so smart. I’ll show how asking questions the right way can lead to better answers and help you improve as a software engineer.  
 
+---
 
-This question is a great example of asking questions the smart way. The user asks, “How can I prevent SQL injection in PHP?”, which is a specific, clear and concise title. The issue of SQL injection is an important one, where there can be security risks if the proper actions are not taken. The user includes relevant code and explains what they want to fix. The user also demonstrates understanding of the problem and seeks a specific solution, so they do have some background knowledge in the issue. The question also received many upvotes and a lot of community engagement, showing that it was well-asked and interesting to others. Overall, the question was straightforward, concise, easy to follow and challenging enough where a lot of people wanted to provide their input. The responses to the questions were extremely helpful and detailed, which I am sure helped the user figure out a solution to his problem. The user’s detailed explanation and clear request for help made it easy for the community to provide relevant solutions.
+## Example of a Smart Question  
 
-Example of a not smart question: https://stackoverflow.com/questions/78979561/making-the-text-clickable-inside-the-input-field
+**Link:** [How can I prevent SQL injection in PHP?](https://stackoverflow.com/questions/60174/how-can-i-prevent-sql-injection-in-php)  
 
-In contrast, this question is the “not so smart” way of asking for help. The user asks how to make text inside an input field clickable, but the title and description are vague. The question does not clearly explain the problem or the expected behavior. The user simply says, “I have tried it, but my code is not working,” without specifying what is wrong or what result they are seeing. The user does not provide much context and doesn't say if there are any errors, which makes it hard for anyone to provide a useful solution. Overall, the question is vague, and it doesn't look like this user put much effort into this post or made any effort to understand or fix the problem before asking for help. Even one of the comments pointed these behaviors out and said “ 'My code is not working' is not particularly helpful for debugging. Does it do anything? If so, what, and how does that differ from your expected result?” This indicates that the user’s failure to describe the issue made it hard for others to help effectively.
+This is a great example of a smart question. The user asks, “How can I prevent SQL injection in PHP?”, which is super clear and specific. SQL injection is a serious problem in web development because it can lead to major security issues. The person asking this question includes some of their code and explains exactly what they’re trying to fix. You can tell they’ve done some research and already know a bit about the topic—they’re just looking for a detailed solution.  
 
-From these examples, it is clear that asking smart questions leads to much better responses, and is a useful skill to add to your toolkit as a software engineer. The way you phrase a question might not seem like a big deal to most people, but it is very important in the field of software engineering. By following these principles, you can ensure you are asking questions that make it easy for others to help you in the most effective way possible. 
+The question got a ton of upvotes and responses, which shows that it was well-written and interesting to the community. The answers were really detailed and helpful, which probably made it easy for the user to solve their problem. This question stands out because it was written in a straightforward way, included enough details, and showed that the person asking it had already put in effort to understand the issue.  
 
+---
 
+## Example of a Not-So-Smart Question  
+
+**Link:** [Making the text clickable inside the input field](https://stackoverflow.com/questions/78979561/making-the-text-clickable-inside-the-input-field)  
+
+This is an example of what NOT to do when asking for help. The user asks how to make text in an input field clickable, but the title and description are super vague. They don’t explain what the problem is or what they’ve already tried. All they say is, “I have tried it, but my code is not working,” without saying what exactly isn’t working.  
+
+There’s no context, no errors mentioned, and no specific details about what they expect the code to do. One of the commenters even pointed this out, saying, “‘My code is not working’ is not particularly helpful for debugging. Does it do anything? If so, what, and how does that differ from your expected result?” This shows that the person asking the question didn’t put in much effort, and it made it really hard for anyone to give them a good answer.  
+
+---
+
+## Why Smart Questions Get Better Answers  
+
+From these two examples, it’s easy to see that smart questions get way better responses. When you put effort into your question—like being specific, providing context, and showing what you’ve tried—people are more likely to want to help you. On the other hand, vague or lazy questions just make it harder for others to understand what you’re asking.  
+
+Asking smart questions is actually a really important skill in software engineering. It’s not just about getting answers—it’s about learning how to communicate effectively and think critically about your problems. By asking better questions, you’ll get better answers, and get better as a developer.  
+
+---
+
+## Final Thoughts  
+
+At first, asking questions might seem like a small thing, but it’s a big deal in software engineering. The way you ask a question can make or break the kind of help you get. If you follow the tips from Eric Raymond’s essay—like doing your research, being clear and specific, and showing effort—you’ll make it easier for others to help you.  
+
+It's important to remember the power of smart questions. It’s a simple change that can make a huge difference in your learning and problem-solving journey.
